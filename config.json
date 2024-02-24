@@ -1,0 +1,13 @@
+{
+    "appName": "ru.yandex.taxi",
+    "minVersion": "4.175.1",
+    "lang": "ru",
+    "country": "ru",
+    "sort": "NEWEST",
+    "maxReviews": 1000,
+    "timeoutSeconds": 15,
+    "minScore": 1,
+    "maxScore": 5
+}
+
+
